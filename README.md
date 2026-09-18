@@ -23,12 +23,7 @@ I'm a senior mobile and full-stack engineer with 8+ years of experience. I build
 **Space Attack Studio** is a 3D level editor that runs in the browser. Built with React Three Fiber, three.js and rapier physics, with procedural level generation.
 Live: [studio.spaceattack.app/#studio](https://studio.spaceattack.app/#studio)
 
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndrewwPataleta&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewwPataleta&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="top languages" />
-</p>
+### Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewwPataleta/AndrewwPataleta/output/snake-dark.svg" />
