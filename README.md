@@ -1,33 +1,27 @@
 ### Hi, I'm Andrew 👋
 
-**Senior Full-Stack & Mobile Engineer** with 8+ years of experience. I build and ship complete products end to end — backend, web and mobile — and take them all the way to live on the app stores and in front of real users.
+I'm a senior full-stack and mobile engineer with 8+ years of experience. I build products end to end, from the backend and web app to the mobile apps, and I take them all the way to live on the app stores in front of real users. I've grown my own apps past 10k installs, so I know the whole path, not just the code.
 
-- 🧩 **Full-stack:** React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
-- 📱 **Mobile:** React Native · Android (Kotlin) · Capacitor
-- 🤖 **AI:** LLM integration (OpenAI, Claude) into real products
-- 🚀 Took my own apps from **0 to 10k+ installs** across the App Store and Google Play
+**What I work with:**
+- Full-stack: React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL
+- Mobile: React Native, Android (Kotlin), Capacitor
+- AI: wiring OpenAI and Claude into real product features
 
----
+### What I've built
 
-### 🔨 Featured projects
+**PostGramX** is a two-sided ads marketplace for Telegram channels with escrow payments. NestJS and PostgreSQL on the backend, a React mini app on the front, and a full deal lifecycle with TON escrow.
+[backend](https://github.com/AndrewwPataleta/postgramx-backend) · [frontend](https://github.com/AndrewwPataleta/postgramx-frontend)
 
-**[PostGramX](https://github.com/AndrewwPataleta/postgramx-backend)** — a two-sided Telegram ads marketplace with escrow payments.
-NestJS + PostgreSQL backend · React + Vite mini-app frontend · TON escrow & deal lifecycle.
-→ [backend](https://github.com/AndrewwPataleta/postgramx-backend) · [frontend](https://github.com/AndrewwPataleta/postgramx-frontend)
+**Space Attack Studio** is a 3D level editor that runs in the browser. Built with React Three Fiber, three.js and rapier physics, with procedural level generation.
+Live: [studio.spaceattack.app/#studio](https://studio.spaceattack.app/#studio)
 
-**[Space Attack Studio](https://github.com/AndrewwPataleta/spaceattack-studio)** — a browser-based 3D level editor.
-React Three Fiber · three.js · rapier physics · procedural generation.
-→ **Live demo: [studio.spaceattack.app/#studio](https://studio.spaceattack.app/#studio)**
+**GiftX** is an AI gift-finder app I built end to end and grew from zero to 10k+ installs.
+[Google Play](https://play.google.com/store/apps/details?id=giftx.tech) · [App Store](https://apps.apple.com/us/app/giftx-ai-gift-finder/id6754931889)
 
-**GiftX** — an AI gift-finder app I built end to end (0 → 10k+ installs).
-→ [Google Play](https://play.google.com/store/apps/details?id=giftx.tech) · [App Store](https://apps.apple.com/us/app/giftx-ai-gift-finder/id6754931889)
+**Space Attack** is a real-time multiplayer game, live on both stores.
+[Google Play](https://play.google.com/store/apps/details?id=app.spaceattack) · [App Store](https://apps.apple.com/us/app/space-attack-galaxy-shooter/id6793962515)
 
-**Space Attack** — a real-time multiplayer game, live on both stores.
-→ [Google Play](https://play.google.com/store/apps/details?id=app.spaceattack) · [App Store](https://apps.apple.com/us/app/space-attack-galaxy-shooter/id6793962515)
-
----
-
-### 🧰 Tech
+### Tech I reach for
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -41,6 +35,4 @@ React Three Fiber · three.js · rapier physics · procedural generation.
 ![Three.js](https://img.shields.io/badge/three.js-000000?logo=threedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
----
-
-📫 Reach me: **andreww.pataleta@gmail.com**
+Reach me at andreww.pataleta@gmail.com
