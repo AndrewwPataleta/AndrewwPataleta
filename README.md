@@ -1,11 +1,12 @@
-### Hi, I'm Andrew 👋
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+%26+Mobile+Engineer;React+%C2%B7+Node+%C2%B7+React+Native+%C2%B7+TypeScript;I+build+products+end+to+end+and+ship+them" alt="Andrew Pataleta" />
+</h3>
 
 I'm a senior full-stack and mobile engineer with 8+ years of experience. I build products end to end, from the backend and web app to the mobile apps, and I take them all the way to live on the app stores in front of real users. I've grown my own apps past 10k installs, so I know the whole path, not just the code.
 
-**What I work with:**
-- Full-stack: React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL
-- Mobile: React Native, Android (Kotlin), Capacitor
-- AI: wiring OpenAI and Claude into real product features
+**Frontend & Mobile:** React · Next.js · React Native · TypeScript · Android (Kotlin)
+**Backend:** Node.js · NestJS · PostgreSQL · REST APIs
+**AI:** OpenAI and Claude wired into real product features
 
 ### What I've built
 
@@ -21,18 +22,18 @@ Live: [studio.spaceattack.app/#studio](https://studio.spaceattack.app/#studio)
 **Space Attack** is a real-time multiplayer game, live on both stores.
 [Google Play](https://play.google.com/store/apps/details?id=app.spaceattack) · [App Store](https://apps.apple.com/us/app/space-attack-galaxy-shooter/id6793962515)
 
-### Tech I reach for
+### Stats
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-000000?logo=threedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndrewwPataleta&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewwPataleta&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="top languages" />
+</p>
 
-Reach me at andreww.pataleta@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewwPataleta/AndrewwPataleta/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AndrewwPataleta/AndrewwPataleta/output/snake.svg" />
+</picture>
+
+### Reach me
+
+andreww.pataleta@gmail.com
